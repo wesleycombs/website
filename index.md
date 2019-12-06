@@ -2,6 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/wesleycombs/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+[COOKIES1](peanut-butter-cookies.md)
+[COOKIES2](docs/_recipes/peanut-butter-cookies.md)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
