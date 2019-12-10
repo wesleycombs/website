@@ -4,11 +4,9 @@
 
 You can use the [editor on GitHub](https://github.com/wesleycombs/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[COOKIES](peanut-butter-cookies.md)
+[Projects](../_projects/greenhouse.md)
 
-[PORTFOLIO](baz-boom-identity.md)
-
-[Projects](greenhouse.md)
+[Projects](../projects/greenhouse.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
